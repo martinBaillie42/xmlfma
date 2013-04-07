@@ -9,10 +9,10 @@
     </list>
     <ignored path="xmlfma.iws" />
     <ignored path=".idea/workspace.xml" />
-    <file path="/Dummy.txt" changelist="827a4141-f4b1-4c64-a17a-ad182e594c0c" time="1365343738293" ignored="false" />
-    <file path="/mbaill02_xmfma.xsl" changelist="827a4141-f4b1-4c64-a17a-ad182e594c0c" time="1365345138552" ignored="false" />
+    <file path="/Dummy.txt" changelist="827a4141-f4b1-4c64-a17a-ad182e594c0c" time="1365352728579" ignored="false" />
+    <file path="/mbaill02_xmfma.xsl" changelist="827a4141-f4b1-4c64-a17a-ad182e594c0c" time="1365353262007" ignored="false" />
     <file path="/mbaill02_xmfma.dtd" changelist="827a4141-f4b1-4c64-a17a-ad182e594c0c" time="1365332524961" ignored="false" />
-    <file path="/mbaill02_xmfma.xml" changelist="827a4141-f4b1-4c64-a17a-ad182e594c0c" time="1365346582463" ignored="false" />
+    <file path="/mbaill02_xmfma.xml" changelist="827a4141-f4b1-4c64-a17a-ad182e594c0c" time="1365353058284" ignored="false" />
     <file path="/mbaill02_xmfma.css" changelist="827a4141-f4b1-4c64-a17a-ad182e594c0c" time="1365327602538" ignored="false" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -75,16 +75,7 @@
       <file leaf-file-name="mbaill02_xmfma.xml" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/mbaill02_xmfma.xml">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="15" column="20" selection-start="678" selection-end="678" vertical-scroll-proportion="0.0">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="mbaill02_xmfma.dtd" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/mbaill02_xmfma.dtd">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="10" column="0" selection-start="323" selection-end="354" vertical-scroll-proportion="-6.5384617">
+            <state line="11" column="20" selection-start="318" selection-end="318" vertical-scroll-proportion="0.0">
               <folding />
             </state>
           </provider>
@@ -93,18 +84,16 @@
       <file leaf-file-name="mbaill02_xmfma.xsl" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/mbaill02_xmfma.xsl">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="16" column="40" selection-start="797" selection-end="797" vertical-scroll-proportion="0.45257902">
-              <folding>
-                <marker date="1365346505984" expanded="true" signature="784:801" placeholder="{...}" />
-              </folding>
+            <state line="3" column="0" selection-start="153" selection-end="153" vertical-scroll-proportion="0.08485857">
+              <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="mbaill02_xmfma.css" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/mbaill02_xmfma.css">
+      <file leaf-file-name="mbaill02_xmfma.dtd" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/mbaill02_xmfma.dtd">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="0" column="21" selection-start="21" selection-end="21" vertical-scroll-proportion="0.0">
+            <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="-0.0">
               <folding />
             </state>
           </provider>
@@ -130,8 +119,8 @@
       <list>
         <option value="$PROJECT_DIR$/mbaill02_xmfma.css" />
         <option value="$PROJECT_DIR$/mbaill02_xmfma.dtd" />
-        <option value="$PROJECT_DIR$/mbaill02_xmfma.xsl" />
         <option value="$PROJECT_DIR$/mbaill02_xmfma.xml" />
+        <option value="$PROJECT_DIR$/mbaill02_xmfma.xsl" />
       </list>
     </option>
   </component>
@@ -321,14 +310,18 @@
       <created>1365343748679</created>
       <updated>1365343748679</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="Sort of work, sort of doesn't. Going to try another approach now">
+      <created>1365352738319</created>
+      <updated>1365352738319</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="784" extended-state="6" />
     <editor active="false" />
     <layout>
-      <window_info id="File Transfer" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32088286" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="File Transfer" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32057416" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
@@ -341,7 +334,7 @@
       <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32854864" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="true" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.1280303" sideWeight="0.9601276" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.1280303" sideWeight="0.67942584" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
@@ -389,7 +382,7 @@
     <option name="MAXIMUM_HISTORY_ROWS" value="1000" />
     <option name="FORCE_NON_EMPTY_COMMENT" value="false" />
     <option name="CLEAR_INITIAL_COMMIT_MESSAGE" value="false" />
-    <option name="LAST_COMMIT_MESSAGE" value="Produces valid xhtml! :o)" />
+    <option name="LAST_COMMIT_MESSAGE" value="Sort of work, sort of doesn't. Going to try another approach now" />
     <option name="MAKE_NEW_CHANGELIST_ACTIVE" value="false" />
     <option name="OPTIMIZE_IMPORTS_BEFORE_PROJECT_COMMIT" value="false" />
     <option name="CHECK_FILES_UP_TO_DATE_BEFORE_COMMIT" value="false" />
@@ -405,6 +398,7 @@
     <MESSAGE value="Initial Commit" />
     <MESSAGE value="xmfma files added" />
     <MESSAGE value="Produces valid xhtml! :o)" />
+    <MESSAGE value="Sort of work, sort of doesn't. Going to try another approach now" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
@@ -413,9 +407,7 @@
     <entry file="file://$PROJECT_DIR$/mbaill02_xmfma.xsl">
       <provider selected="true" editor-type-id="text-editor">
         <state line="6" column="82" selection-start="265" selection-end="265" vertical-scroll-proportion="0.0">
-          <folding>
-            <marker date="1365346505984" expanded="true" signature="784:801" placeholder="{...}" />
-          </folding>
+          <folding />
         </state>
       </provider>
     </entry>
@@ -455,9 +447,7 @@
     <entry file="file://$PROJECT_DIR$/mbaill02_xmfma.xsl">
       <provider selected="true" editor-type-id="text-editor">
         <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
-          <folding>
-            <marker date="1365346505984" expanded="true" signature="784:801" placeholder="{...}" />
-          </folding>
+          <folding />
         </state>
       </provider>
     </entry>
@@ -497,26 +487,24 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/mbaill02_xmfma.dtd">
+    <entry file="file://$PROJECT_DIR$/mbaill02_xmfma.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="10" column="0" selection-start="323" selection-end="354" vertical-scroll-proportion="-6.5384617">
+        <state line="11" column="20" selection-start="318" selection-end="318" vertical-scroll-proportion="0.0">
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/mbaill02_xmfma.xml">
+    <entry file="file://$PROJECT_DIR$/mbaill02_xmfma.dtd">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="15" column="20" selection-start="678" selection-end="678" vertical-scroll-proportion="0.0">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="-0.0">
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/mbaill02_xmfma.xsl">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="16" column="40" selection-start="797" selection-end="797" vertical-scroll-proportion="0.45257902">
-          <folding>
-            <marker date="1365346505984" expanded="true" signature="784:801" placeholder="{...}" />
-          </folding>
+        <state line="3" column="0" selection-start="153" selection-end="153" vertical-scroll-proportion="0.08485857">
+          <folding />
         </state>
       </provider>
     </entry>
