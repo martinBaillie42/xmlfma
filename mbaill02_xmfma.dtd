@@ -1,0 +1,30 @@
+<?xml version='1.0' encoding='UTF-8'?>
+
+<!ELEMENT ad:addressbook (ad:contact)*>
+<!ATTLIST ad:addressbook xmlns:ad CDATA #REQUIRED>
+<!ELEMENT ad:contact ((ad:individual|ad:organisation),ad:address,ad:email)>
+<!ATTLIST ad:contact id ID #REQUIRED>
+
+<!ELEMENT ad:individual (ad:name,ad:tel_home,ad:tel_work,ad:tel_fax)>
+<!ELEMENT ad:name (ad:firstname,ad:surname)>
+<!ELEMENT ad:firstname (#PCDATA)>
+<!ELEMENT ad:surname (#PCDATA)>
+<!ELEMENT ad:tel_home (#PCDATA)>
+<!ELEMENT ad:tel_work (#PCDATA)>
+<!ELEMENT ad:tel_fax (#PCDATA)>
+
+<!ELEMENT ad:organisation (ad:organisation_name,(ad:tel_organisation?,ad:fax_organisation?)?)>
+<!ELEMENT ad:organisation_name (#PCDATA)>
+<!ELEMENT ad:tel_organisation (#PCDATA)>
+<!ELEMENT ad:fax_organisation (#PCDATA)>
+
+<!ELEMENT ad:address (ad:address_one,ad:address_two?,ad:address_three?,(ad:town|ad:city),ad:county?,ad:postcode,ad:country?)>
+<!ELEMENT ad:address_one (#PCDATA)>
+<!ELEMENT ad:address_two (#PCDATA)>
+<!ELEMENT ad:address_three (#PCDATA)>
+<!ELEMENT ad:town (#PCDATA)>
+<!ELEMENT ad:city (#PCDATA)>
+<!ELEMENT ad:county (#PCDATA)>
+<!ELEMENT ad:postcode (#PCDATA)>
+<!ELEMENT ad:country (#PCDATA)>
+<!ELEMENT ad:email (#PCDATA)>
