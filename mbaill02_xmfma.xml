@@ -1,42 +1,24 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!--<!DOCTYPE healthlist SYSTEM "juices.dtd">-->
+<!DOCTYPE juices SYSTEM "mbaill02_xmfma.dtd">
 <?xml-stylesheet type="text/xsl" href="mbaill02_xmfma.xsl"?>
 
+<juices>
+    <juice>
+        <name>Orange</name>
+        <ingredients>100&#37; Orange Juice</ingredients>
+        <information>An orangey orange juice</information>
+        <nutrition>Vitamin C etc.</nutrition>
+        <price>3.99</price>
+        <image>images/orangessmall.jpg</image>
+    </juice>
 
-<healthlist>
-    <health id='01'>
-
-
-        <juicename-a>The Body Cleanser</juicename-a>
-        <juicename-b>The Cholesterol Buster</juicename-b>
-        <juicename-c>The Super Breath</juicename-c>
-
-        <fruittype-a>Apple - Ginger - Carrots</fruittype-a>
-        <fruittype-b>Apple - Cucumber - Celery</fruittype-b>
-        <fruittype-c>Apple - Carrot - Tomato</fruittype-c>
-
-        <ingredients-a>Apple - Ginger - Carrots - Sparkling Water</ingredients-a>
-        <ingredients-b>Apple - Cucumber - Celery - Sparkling Water</ingredients-b>
-        <ingredients-c>Apple - Carrot - Tomato - Sparkling Water</ingredients-c>
-
-        <promotions-a>
-            The main benefits of this healthy juice include revitalization of the body, good for cold and glowing skin.
-            This juice has a cleansing and boosting effect to the whole body.
-        </promotions-a>
-        <promotions-b>
-            This juice made from apple, cucumber and celery is known to fight cancer an reduce cholesterol. It also improves
-            any sort of stomach upset and headache. This healthy juice is a must have once you have crossed your thirties.
-        </promotions-b>
-        <promotions-c>
-            This juice is specifically for people who want to improve their skin complexion. This juice has an added advantage of eliminating bad breath. This is
-            due to the apple and tomato combination. When it comes to healthy breath, this healthy juice recipe tops the list!!
-        </promotions-c>
-
-        <pricing-a>£3.50</pricing-a>
-        <pricing-b>£3.50</pricing-b>
-        <pricing-c>£3.00</pricing-c>
-
-
-    </health>
-</healthlist>
+    <juice>
+        <name>Apple</name>
+        <ingredients>100&#37; Apple Juice</ingredients>
+        <information>An appley apple juice</information>
+        <nutrition>Vitamin D etc.</nutrition>
+        <price>2.99</price>
+        <image>images/applessmall.jpg</image>
+    </juice>
+</juices>
 

@@ -2,18 +2,21 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="827a4141-f4b1-4c64-a17a-ad182e594c0c" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/mbaill02_xmfma.dtd" afterPath="$PROJECT_DIR$/mbaill02_xmfma.dtd" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/fruitjuices.html" afterPath="$PROJECT_DIR$/fruitjuices.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/index.html" afterPath="$PROJECT_DIR$/index.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/juices.html" afterPath="$PROJECT_DIR$/juices.html" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/mbaill02_xmfma.xml" afterPath="$PROJECT_DIR$/mbaill02_xmfma.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/mbaill02_xmfma.xsl" afterPath="$PROJECT_DIR$/mbaill02_xmfma.xsl" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="xmlfma.iws" />
     <ignored path=".idea/workspace.xml" />
-    <file path="/Dummy.txt" changelist="827a4141-f4b1-4c64-a17a-ad182e594c0c" time="1365352728579" ignored="false" />
-    <file path="/mbaill02_xmfma.xsl" changelist="827a4141-f4b1-4c64-a17a-ad182e594c0c" time="1365353262007" ignored="false" />
+    <file path="/Dummy.txt" changelist="827a4141-f4b1-4c64-a17a-ad182e594c0c" time="1365353297539" ignored="false" />
+    <file path="/mbaill02_xmfma.xsl" changelist="827a4141-f4b1-4c64-a17a-ad182e594c0c" time="1365365587311" ignored="false" />
     <file path="/mbaill02_xmfma.dtd" changelist="827a4141-f4b1-4c64-a17a-ad182e594c0c" time="1365332524961" ignored="false" />
-    <file path="/mbaill02_xmfma.xml" changelist="827a4141-f4b1-4c64-a17a-ad182e594c0c" time="1365353058284" ignored="false" />
+    <file path="/mbaill02_xmfma.xml" changelist="827a4141-f4b1-4c64-a17a-ad182e594c0c" time="1365362978949" ignored="false" />
     <file path="/mbaill02_xmfma.css" changelist="827a4141-f4b1-4c64-a17a-ad182e594c0c" time="1365327602538" ignored="false" />
+    <file path="/fruitjuices.html" changelist="827a4141-f4b1-4c64-a17a-ad182e594c0c" time="1365360064494" ignored="false" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -75,7 +78,7 @@
       <file leaf-file-name="mbaill02_xmfma.xml" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/mbaill02_xmfma.xml">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="11" column="20" selection-start="318" selection-end="318" vertical-scroll-proportion="0.0">
+            <state line="18" column="44" selection-start="643" selection-end="643" vertical-scroll-proportion="0.0">
               <folding />
             </state>
           </provider>
@@ -84,7 +87,34 @@
       <file leaf-file-name="mbaill02_xmfma.xsl" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/mbaill02_xmfma.xsl">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="3" column="0" selection-start="153" selection-end="153" vertical-scroll-proportion="0.08485857">
+            <state line="88" column="0" selection-start="3990" selection-end="3990" vertical-scroll-proportion="0.3452381">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="juices.html" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/juices.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="70" column="40" selection-start="2901" selection-end="2919" vertical-scroll-proportion="-9.153846">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="fruitjuices.html" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/fruitjuices.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="22" column="24" selection-start="760" selection-end="800" vertical-scroll-proportion="-8.5">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="index.html" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/index.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="24" column="64" selection-start="805" selection-end="805" vertical-scroll-proportion="-12.423077">
               <folding />
             </state>
           </provider>
@@ -119,6 +149,9 @@
       <list>
         <option value="$PROJECT_DIR$/mbaill02_xmfma.css" />
         <option value="$PROJECT_DIR$/mbaill02_xmfma.dtd" />
+        <option value="$PROJECT_DIR$/fruitjuices.html" />
+        <option value="$PROJECT_DIR$/index.html" />
+        <option value="$PROJECT_DIR$/juices.html" />
         <option value="$PROJECT_DIR$/mbaill02_xmfma.xml" />
         <option value="$PROJECT_DIR$/mbaill02_xmfma.xsl" />
       </list>
@@ -176,6 +209,20 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="xmlfma" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="xmlfma" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="images" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
         </subPane>
       </pane>
       <pane id="Scope" />
@@ -218,6 +265,22 @@
       <option name="SHMEM_ADDRESS" value="javadebug" />
       <option name="HOST" value="localhost" />
       <option name="PORT" value="5005" />
+      <method />
+    </configuration>
+    <configuration default="true" type="XSLT" factoryName="XSLT">
+      <option name="myOutputFile" />
+      <option name="myOpenOutputFile" value="false" />
+      <option name="myOpenInBrowser" value="false" />
+      <option name="mySmartErrorHandling" value="true" />
+      <option name="myRunnerPort" value="34873" />
+      <option name="myVmArguments" />
+      <option name="myWorkingDirectory" />
+      <option name="myModule" />
+      <option name="myJdk" />
+      <parameters />
+      <OutputType value="CONSOLE" save-to-file="false" />
+      <FileType name="XML" />
+      <JdkChoice value="FROM_MODULE" />
       <method />
     </configuration>
     <configuration default="true" type="Applet" factoryName="Applet">
@@ -314,7 +377,11 @@
       <created>1365352738319</created>
       <updated>1365352738319</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="Beginning of other approach...">
+      <created>1365353306725</created>
+      <updated>1365353306725</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="ToolWindowManager">
@@ -334,7 +401,7 @@
       <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32854864" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="true" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.1280303" sideWeight="0.67942584" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.2719697" sideWeight="0.67942584" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
@@ -382,7 +449,7 @@
     <option name="MAXIMUM_HISTORY_ROWS" value="1000" />
     <option name="FORCE_NON_EMPTY_COMMENT" value="false" />
     <option name="CLEAR_INITIAL_COMMIT_MESSAGE" value="false" />
-    <option name="LAST_COMMIT_MESSAGE" value="Sort of work, sort of doesn't. Going to try another approach now" />
+    <option name="LAST_COMMIT_MESSAGE" value="Beginning of other approach..." />
     <option name="MAKE_NEW_CHANGELIST_ACTIVE" value="false" />
     <option name="OPTIMIZE_IMPORTS_BEFORE_PROJECT_COMMIT" value="false" />
     <option name="CHECK_FILES_UP_TO_DATE_BEFORE_COMMIT" value="false" />
@@ -399,25 +466,12 @@
     <MESSAGE value="xmfma files added" />
     <MESSAGE value="Produces valid xhtml! :o)" />
     <MESSAGE value="Sort of work, sort of doesn't. Going to try another approach now" />
+    <MESSAGE value="Beginning of other approach..." />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/mbaill02_xmfma.xsl">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="6" column="82" selection-start="265" selection-end="265" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/mbaill02_xmfma.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="21" selection-start="21" selection-end="21" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/fruitjuices.html">
       <provider selected="true" editor-type-id="text-editor">
         <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
@@ -463,13 +517,6 @@
         <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" />
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/fruitjuices.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/yumstyle.css">
       <provider selected="true" editor-type-id="text-editor">
         <state line="12" column="5" selection-start="145" selection-end="145" vertical-scroll-proportion="0.0" />
@@ -483,13 +530,6 @@
     <entry file="file://$PROJECT_DIR$/mbaill02_xmfma.css">
       <provider selected="true" editor-type-id="text-editor">
         <state line="0" column="21" selection-start="21" selection-end="21" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/mbaill02_xmfma.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="11" column="20" selection-start="318" selection-end="318" vertical-scroll-proportion="0.0">
           <folding />
         </state>
       </provider>
@@ -501,9 +541,37 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="24" column="64" selection-start="805" selection-end="805" vertical-scroll-proportion="-12.423077">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/fruitjuices.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="22" column="24" selection-start="760" selection-end="800" vertical-scroll-proportion="-8.5">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/juices.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="70" column="40" selection-start="2901" selection-end="2919" vertical-scroll-proportion="-9.153846">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/mbaill02_xmfma.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="18" column="44" selection-start="643" selection-end="643" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/mbaill02_xmfma.xsl">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="3" column="0" selection-start="153" selection-end="153" vertical-scroll-proportion="0.08485857">
+        <state line="88" column="0" selection-start="3990" selection-end="3990" vertical-scroll-proportion="0.3452381">
           <folding />
         </state>
       </provider>
