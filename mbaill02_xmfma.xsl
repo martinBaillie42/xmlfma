@@ -39,20 +39,15 @@
                             <h2>
                                 Fruit Juices
                             </h2>
-                            <div class="productblock">
-                                <img class="juice" src="images/glasscitrusjuice.jpg" width="70" height="70" alt="juice" />
-                                <h3>Citrus Zing</h3>
-                                <p>
-                                    Bursting with an unbelievable combination of all your favourite citrus fruits this juice will wake even the most tired sleeper
-                                    from their slumbers. <span class="highlight">Citrus Zing</span> is packed with vitamins and bursting with vitamin C. Buy Now.  <a href="#">Buy Now</a>
-                                </p>
-                            </div>
-                            <xsl:apply-templates/>
+                            <ul id="productcontainer">
+                                <xsl:apply-templates/>
+                            </ul>
+
                         </div>
                         <div id="leftcol">
                             <div id="leftnavcontainer">
                                 <ul>
-                                    <li ><a class="current" href="fruitjuices.html">Fruit Juices</a></li>
+                                    <li><a class="current" href="fruitjuices.html">Fruit Juices</a></li>
                                     <li><a href="#">Berry Juices</a></li>
                                     <li><a href="#">Vegetable Juices</a></li>
                                     <li><a href="#">Health Juices</a></li>
@@ -71,37 +66,49 @@
 
     </xsl:template>
 
-    <xsl:template match="juice">
-        <xsl:apply-templates/>
+    <xsl:template match="juice[@in_stock='Current']">
+        <li>
+            <ul class="productblock">
+                <xsl:apply-templates/>
+                <li><a href="#">Buy Now</a></li>
+            </ul>
+        </li>
+    </xsl:template>
+
+    <!-- Use xpath queries to only display the correct juices for each page
+    Also add an instock attribute -->
+
+    <xsl:template match="image">
+        <li class="juice">
+            <xsl:element name="image">
+                <xsl:attribute name="src">
+                    <xsl:value-of select="." />
+                </xsl:attribute>
+                <xsl:attribute name="width">70</xsl:attribute>
+                <xsl:attribute name="height">70</xsl:attribute>
+                <xsl:attribute name="alt">juice</xsl:attribute>
+            </xsl:element>
+        </li>
     </xsl:template>
 
     <xsl:template match="name">
-        <p><xsl:value-of select="."/></p>
+        <li><h3><xsl:value-of select="."/></h3></li>
     </xsl:template>
 
     <xsl:template match="ingredients">
-        <p><xsl:value-of select="."/></p>
+        <li><xsl:value-of select="."/></li>
     </xsl:template>
 
     <xsl:template match="information">
-        <p><xsl:value-of select="."/></p>
+        <li><xsl:value-of select="."/></li>
     </xsl:template>
 
     <xsl:template match="nutrition">
-        <p><xsl:value-of select="."/></p>
+        <li><xsl:value-of select="."/></li>
     </xsl:template>
 
     <xsl:template match="price">
-        <p><xsl:value-of select="."/></p>
-    </xsl:template>
-
-    <xsl:template match="image">
-        <xsl:element name="image">
-            <xsl:attribute name="src">
-                <xsl:value-of select="." />
-            </xsl:attribute>
-        </xsl:element>
-        <!--<img href='<xsl:value-of select="."/>' />-->
+        <li><xsl:value-of select="."/></li>
     </xsl:template>
 
 </xsl:stylesheet>

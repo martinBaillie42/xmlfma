@@ -4,21 +4,23 @@
 
 <juices>
     <juice>
+        <image>images/orangessmall.jpg</image>
         <name>Orange</name>
         <ingredients>100&#37; Orange Juice</ingredients>
         <information>An orangey orange juice</information>
         <nutrition>Vitamin C etc.</nutrition>
         <price>3.99</price>
-        <image>images/orangessmall.jpg</image>
+
     </juice>
 
     <juice>
+        <image>images/applessmall.jpg</image>
         <name>Apple</name>
         <ingredients>100&#37; Apple Juice</ingredients>
         <information>An appley apple juice</information>
         <nutrition>Vitamin D etc.</nutrition>
         <price>2.99</price>
-        <image>images/applessmall.jpg</image>
+
     </juice>
 </juices>
 

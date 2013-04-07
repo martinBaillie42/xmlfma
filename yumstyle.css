@@ -226,3 +226,30 @@ img.juice {
 	font-weight: bold;
 }
 	
+ul#productcontainer,
+ul.productblock {
+	list-style: none;
+}
+
+ul#productcontainer {
+	padding: 0;
+}
+
+ul.productblock {
+	padding: 0.5em;
+	margin: 0.5em;
+}
+
+ul.productblock li{
+	font-size: smaller;
+}
+
+ul.productblock h3{
+	font-size: larger;
+}
+
+li.juice {
+	float: right;
+	border: 1px solid;
+	margin-left:0.1em;
+}
