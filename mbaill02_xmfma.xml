@@ -1,160 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <?xml-stylesheet type="text/xsl" href="mbaill02_xmfma.xsl"?>
-<!DOCTYPE ad:addressbook SYSTEM "mbaill02_xmfma.dtd">
+<!--<!DOCTYPE ad:addressbook SYSTEM "mbaill02_xmfma.dtd" PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">-->
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+    <head>
 
-<ad:addressbook xmlns:ad="http://www.martinbaillie.net/addressbook">
-    <ad:contact id="co1">
+    </head>
+    <!--<ad:contact id="co1">
         <ad:individual>
             <ad:name>
                 <ad:firstname>Martin</ad:firstname>
                 <ad:surname>Baillie</ad:surname>
             </ad:name>
-            <ad:tel_home>07234567890</ad:tel_home>
-            <ad:tel_work>01234567890</ad:tel_work>
-            <ad:tel_fax>01234567891</ad:tel_fax>
         </ad:individual>
-        <ad:address>
-            <ad:address_one>99</ad:address_one>
-            <ad:address_two>Martin Flats</ad:address_two>
-            <ad:address_three>Martin Street</ad:address_three>
-            <ad:town>Martin Town</ad:town>
-            <ad:postcode>MA12 3TN</ad:postcode>
-            <ad:country>UK</ad:country>
-        </ad:address>
-        <ad:email>martin@gmail.com</ad:email>
-    </ad:contact>
-    <ad:contact id="co2">
-        <ad:individual>
-            <ad:name>
-                <ad:firstname>Joanna</ad:firstname>
-                <ad:surname>Sheldon</ad:surname>
-            </ad:name>
-            <ad:tel_home>07234567890</ad:tel_home>
-            <ad:tel_work>01234567890</ad:tel_work>
-            <ad:tel_fax>01234567891</ad:tel_fax>
-        </ad:individual>
-        <ad:address>
-            <ad:address_one>99</ad:address_one>
-            <ad:address_two>Martin Flats</ad:address_two>
-            <ad:address_three>Martin Street</ad:address_three>
-            <ad:town>Martin Town</ad:town>
-            <ad:postcode>MA12 3TN</ad:postcode>
-        </ad:address>
-        <ad:email>joanna@gmail.com</ad:email>
-    </ad:contact>
-    <ad:contact id="co3">
-        <ad:individual>
-            <ad:name>
-                <ad:firstname>Lee</ad:firstname>
-                <ad:surname>Tate</ad:surname>
-            </ad:name>
-            <ad:tel_home>07234567890</ad:tel_home>
-            <ad:tel_work>01234567890</ad:tel_work>
-            <ad:tel_fax>01234567891</ad:tel_fax>
-        </ad:individual>
-        <ad:address>
-            <ad:address_one>1</ad:address_one>
-            <ad:address_two>Lee Street</ad:address_two>
-            <ad:town>Lee Town</ad:town>
-            <ad:county>Lee County</ad:county>
-            <ad:postcode>LE12 3EE</ad:postcode>
-        </ad:address>
-        <ad:email>lee@gmail.com</ad:email>
-    </ad:contact>
-    <ad:contact id="co4">
-        <ad:individual>
-            <ad:name>
-                <ad:firstname>Dan</ad:firstname>
-                <ad:surname>Smith</ad:surname>
-            </ad:name>
-            <ad:tel_home>07234567890</ad:tel_home>
-            <ad:tel_work>01234567890</ad:tel_work>
-            <ad:tel_fax>01234567891</ad:tel_fax>
-        </ad:individual>
-        <ad:address>
-            <ad:address_one>1 Dan Street</ad:address_one>
-            <ad:town>Dan Town</ad:town>
-            <ad:county>Dan County</ad:county>
-            <ad:postcode>DA12 3NN</ad:postcode>
-        </ad:address>
-        <ad:email>dan@gmail.com</ad:email>
-    </ad:contact>
-    <ad:contact id="co5">
-        <ad:individual>
-            <ad:name>
-                <ad:firstname>Pete</ad:firstname>
-                <ad:surname>Tyler</ad:surname>
-            </ad:name>
-            <ad:tel_home>07234567890</ad:tel_home>
-            <ad:tel_work>01234567890</ad:tel_work>
-            <ad:tel_fax>01234567891</ad:tel_fax>
-        </ad:individual>
-        <ad:address>
-            <ad:address_one>20 Pete Street</ad:address_one>
-            <ad:town>Pete Town</ad:town>
-            <ad:postcode>PE12 3TE</ad:postcode>
-        </ad:address>
-        <ad:email>pete@gmail.com</ad:email>
-    </ad:contact>
-    <ad:contact id="co6">
-        <ad:organisation>
-            <ad:organisation_name>Birkbeck</ad:organisation_name>
-            <ad:tel_organisation>07234567890</ad:tel_organisation>
-            <ad:fax_organisation>01234567890</ad:fax_organisation>
-        </ad:organisation>
-        <ad:address>
-            <ad:address_one>Malet Street</ad:address_one>
-            <ad:city>London</ad:city>
-            <ad:postcode>LO12 3DN</ad:postcode>
-        </ad:address>
-        <ad:email>bbk@bbk.ac.uk</ad:email>
-    </ad:contact>
-    <ad:contact id="co7">
-        <ad:organisation>
-            <ad:organisation_name>LSE</ad:organisation_name>
-            <ad:tel_organisation>07234567890</ad:tel_organisation>
-        </ad:organisation>
-        <ad:address>
-            <ad:address_one>Portugal Street</ad:address_one>
-            <ad:city>London</ad:city>
-            <ad:postcode>LO46 2DN</ad:postcode>
-        </ad:address>
-        <ad:email>lse@lse.ac.uk</ad:email>
-    </ad:contact>
-    <ad:contact id="co8">
-        <ad:organisation>
-            <ad:organisation_name>UCL</ad:organisation_name>
-            <ad:fax_organisation>01234567890</ad:fax_organisation>
-        </ad:organisation>
-        <ad:address>
-            <ad:address_one>Bloomsbury Street</ad:address_one>
-            <ad:city>London</ad:city>
-            <ad:postcode>LO12 8DN</ad:postcode>
-        </ad:address>
-        <ad:email>ucl@ucl.ac.uk</ad:email>
-    </ad:contact>
-    <ad:contact id="co9">
-        <ad:organisation>
-            <ad:organisation_name>Tate Modern</ad:organisation_name>
-            <ad:fax_organisation>01234567890</ad:fax_organisation>
-        </ad:organisation>
-        <ad:address>
-            <ad:address_one>South Bank</ad:address_one>
-            <ad:city>London</ad:city>
-            <ad:postcode>LO34 1DN</ad:postcode>
-        </ad:address>
-        <ad:email>tm@tm.co.uk</ad:email>
-    </ad:contact>
-    <ad:contact id="c10">
-        <ad:organisation>
-            <ad:organisation_name>Tate Britain</ad:organisation_name>
-            <ad:fax_organisation>01234567890</ad:fax_organisation>
-        </ad:organisation>
-        <ad:address>
-            <ad:address_one>North Bank</ad:address_one>
-            <ad:city>London</ad:city>
-            <ad:postcode>LO56 2DN</ad:postcode>
-        </ad:address>
-        <ad:email>tb@tb.co.uk</ad:email>
-    </ad:contact>
-</ad:addressbook>
+    </ad:contact>-->
+</html>
