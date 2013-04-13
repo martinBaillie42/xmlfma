@@ -10,7 +10,6 @@
         <information>An orangey orange juice</information>
         <nutrition>Vitamin C etc.</nutrition>
         <price>3.99</price>
-
     </juice>
 
     <juice>
@@ -20,7 +19,6 @@
         <information>An appley apple juice</information>
         <nutrition>Vitamin D etc.</nutrition>
         <price>2.99</price>
-
     </juice>
 </juices>
 
